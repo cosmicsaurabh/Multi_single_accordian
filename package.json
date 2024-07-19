@@ -1,7 +1,11 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "git": "^0.1.5",
     "react-scripts": "^5.0.1"
+=======
+    "git": "^0.1.5"
+>>>>>>> eaa1cbf3cdf6c2e273ebb751600d4a55159892ae
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
