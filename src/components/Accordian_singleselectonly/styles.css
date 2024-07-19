@@ -1,0 +1,28 @@
+.accordiansingle_wrapper{
+    display: flex;
+    flex-direction: column;
+    /* height: 1000vh;
+    width : 1000vw; */
+    justify-content: center;
+    align-items: center;
+
+}
+.accordiansingle {
+    width: 80%;
+    overflow-y: auto;
+}
+.accordiansingle_item {
+    background-color: rgb(130, 130, 215);
+    margin: 10px;
+    padding: 10px;
+}
+.accordiansingle_title{
+    background-color: blanchedalmond;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.accordiansingle_h4{
+    align-items: center;
+}
